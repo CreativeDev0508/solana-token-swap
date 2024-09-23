@@ -7,7 +7,7 @@
     "url": "https://github.com/huutam1991/solana_token_swap"
   },
   "keywords": [],
-  "author": "huutam1991@gmail.com",
+  "author": "mingw2816@gmail.com",
   "scripts": {
     "start": "ts-node src/client/main.ts",
     "start-with-test-validator": "start-server-and-test 'solana-test-validator --reset --quiet' http://localhost:8899/health start",
